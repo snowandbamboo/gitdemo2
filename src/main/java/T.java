@@ -5,5 +5,6 @@ public class T {
         System.out.println("xiao bian nihao");
         System.out.println("我是一个中国人");
         System.out.println("我是男孩子");
+	System.out.println("郁佳楠是一个好男孩");
     }
 }
